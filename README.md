@@ -2,6 +2,12 @@
 
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.[1] It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine.
 
+
+![Game_of_life_animated_LWSS](https://user-images.githubusercontent.com/59846668/103464361-66a4ea00-4d48-11eb-8558-8b18d19e6f7f.gif)
+![Game_of_life_pulsar](https://user-images.githubusercontent.com/59846668/103464486-432e6f00-4d49-11eb-83b0-3f6a781c018b.gif)
+![Animated_Hwss](https://user-images.githubusercontent.com/59846668/103464498-55a8a880-4d49-11eb-87f5-626b3092c29b.gif)
+
+
 # Rules:
 
 The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, live or dead, (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
